@@ -2,6 +2,8 @@
 
 Create simple HTML only website with multiple pages.
 
+<button> [Vote this Solutions](https://roadmap.sh/projects/basic-html-website/solutions?u=683bb642d3156c8eaf44200b) </button>
+
 > Goal of this project is to teach you how to structure a website using HTML i.e. different sections of a website like header, footer, navigation, main content, sidebars etc. Do not style the website, only focus on the structure. Styling will be done in separate projects.
 
 In this project, you are required to create a simple HTML only website with multiple pages. The website should have following pages:
@@ -34,4 +36,3 @@ Again, make sure that your submission includes the following:
 ---
 
 After completing this project, you will have a good understanding of how to structure a website using HTML, basic SEO meta tags, HTML tags, forms etc. You can now move on to the next project where you will learn how to style this website using CSS.
-
