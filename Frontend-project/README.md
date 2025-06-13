@@ -1,8 +1,4 @@
-# 📚 Roadmap.sh Solutions
-
-This repository is my personal space for storing and collecting various projects that I've practiced and built while learning through [roadmap.sh](https://roadmap.sh/).
-
-## 📂 Frontend Projects list
+# 📂 Frontend Projects list
 
 Below is a list of all Frontend projects available in this repository.
 
