@@ -2,9 +2,11 @@
 
 ![alt text](image-1.png)
 
+You can vote on the solution to this problem at the [link](https://roadmap.sh/projects/basic-html-website/solutions?u=683bb642d3156c8eaf44200b).
+
 ## The Challenge
 
-Create simple HTML only website with multiple pages. [Vote this Solutions](https://roadmap.sh/projects/basic-html-website/solutions?u=683bb642d3156c8eaf44200b)
+Create simple HTML only website with multiple pages.
 
 > Goal of this project is to teach you how to structure a website using HTML i.e. different sections of a website like header, footer, navigation, main content, sidebars etc. Do not style the website, only focus on the structure. Styling will be done in separate projects.
 
