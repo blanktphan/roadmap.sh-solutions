@@ -12,6 +12,9 @@ Below is a list of all Programming projects available in this repository.
 | :------------------------- | :------------------------------------ | :---------------------------------- | :---------------------- |
 | **Task Tracker** | Build a CLI app to track your tasks and manage your to-do list. | `Programming Language`, `CLI`, `Filesystem` | [Open]()
 | **GitHub User Activity** | Use GitHub API to fetch user activity and display it in the terminal. | `Programming Language`, `CLI`, `API Consumption` | [Open]() |
+
+Click [here](./python-Language-projects/) to see more for Python projects.
+
 --- 
 
 ## 📂 Frontend Projects list
@@ -22,5 +25,7 @@ Below is a list of all Frontend projects available in this repository.
 | :------------------------- | :------------------------------------ | :---------------------------------- | :---------------------- |
 | [**Single Page CV**](https://roadmap.sh/projects/single-page-cv) | Create a single-page HTML CV to showcase your career history. | `HTML`, `Semantic HTML`, `Layout`, `SEO` | [Open](./frontend-project/01-single-page-cv/) |
 | [**Basic HTML Website**](https://roadmap.sh/projects/basic-html-website) | Create simple HTML only website with multiple pages. | `HTML`, `CSS`, `Semantic HTML`, `Layout`, `SEO`| [Open](./frontend-project/02-basic-html-website/) |
+
+Click [here](./frontend-project/) to see more for Frontend projects.
 
 --- 
