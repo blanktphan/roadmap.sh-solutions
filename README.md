@@ -1,65 +1,72 @@
-# 📚 Roadmap.sh Solutions
+# 📚 **Roadmap.sh Solutions**
 
-![alt text](./image/roadmapsh.png)
+[![Roadmap.sh Logo](./image/roadmapsh-logo.png)](https://roadmap.sh/)
 
-## 📗 Introduction
+## 📗 **Introduction**
 
-This repository is my **personal space** for collecting and storing various projects I've practiced and built following the guidelines from [**Roadmap.sh**](https://roadmap.sh/). Its main purpose is to *track my development*, *showcase my learned skills*, and *share my unique problem-solving approaches*. This repository does **not** cover all content or projects from [**Roadmap.sh**](https://roadmap.sh/).
+This repository is my **personal space** for collecting and storing various projects I've practiced and built following the guidelines from [**Roadmap.sh**](https://roadmap.sh/). Its main purpose is to **track my development**, **showcase my learned skills**, and **share my unique problem-solving approaches**. Please note, this repository does **NOT** cover *all content* or *projects* from [Roadmap.sh](https://roadmap.sh/).
 
-## 📖 Table of Contents
+### 🎯 **Purpose & Goals**
+This repository is designed to help me:
 
-This table of contents only covers the *role-based roadmaps* I'm interested in, but there's a **lot more** to learn. If you'd like to explore further, [**click here**](https://roadmap.sh/).
+* **Track Progress** — *Monitor my development* in **problem-solving** and **technical skills**.
+* **Deepen Understanding** — *Enhance my understanding* of various [**standard programmer roles**](https://roadmap.sh/) in detail.
+* **Recognize Interconnections** — *Perceive the relationships* between **different roles**.
+* **Share Knowledge** — *Contribute* to the broader **programming community**.
 
-- [**Python Language**](https://roadmap.sh/)
-- [**Frontend Developer**](https://roadmap.sh/)
+---
 
+## 💡 **How to Explore**
 
-## 💡 How to Explore
+Follow these **simple steps** to navigate through the solutions:
 
-Welcome to my **Roadmap.sh solutions** repository! You can easily explore the various projects within by following these steps:
+### **Step 1: Select a Category**
 
-1. **Select a Path or Category**: In the *Table of Contents* section, you'll find a list of main project categories I've worked on, such as **Python Language** or **Frontend Developer**.
+Browse the [**Table of Contents**](#-table-of-contents) to find **available categories**.
 
-2. **Choose a Project of Interest**: Once you select a category, you'll see a table listing the individual projects under that category. Each project entry includes key information:
-   
-    - **Project Name**: To let you know what the project is about, including a link to the project details on *Roadmap.sh*.
-  
-    - **Description**: A brief summary of what you'll find in that project.
-  
-    - **Technologies Used**: The main programming languages or tools utilized in the project.
-  
-    - **Directory**: Click *"Open"* to navigate directly to that project's directory, which contains the code and related files.
-  
-3. **Explore the Code and Solutions**: Inside each project directory, you'll find the code files and potentially a `README.md` that provides further details about my *problem-solving approach*.
+### **Step 2: Choose a Project**
 
+Each entry provides **essential information**:
 
-## 📂 Programming with Python Language
+* **Project Name** — A *direct link* to the project on [Roadmap.sh](https://roadmap.sh/).
+* **Description** — A *brief summary* of what you'll find in that **specific project**.
+* **Focus Point** — The main *programming languages*, *tools*, or **key concepts** reinforced by the project.
+* **Directory Link** — Click "**Open**" to navigate directly to the project's directory, which contains the **code** and **related files**.
 
-Below is a list of all **Programming** projects available in this repository.
+### **Step 3: Explore the Code and Solutions**
 
+Inside each project directory, you'll find the **code files** and potentially a `README.md` that provides further details about my **problem-solving approach**.
 
-| Project Name | Description| Technologies Used | Folder |
-| :------------------------- | :------------------------------------ | :---------------------------------- | :---------------------- |
-| [**Task Tracker**](https://roadmap.sh/projects/task-tracker) | Build a CLI app to track your tasks and manage your to-do list. | `Programming Language`, `CLI`, `Filesystem` | [**Open**]()
-| [**GitHub User Activity**](https://roadmap.sh/projects/github-user-activity) | Use GitHub API to fetch user activity and display it in the terminal. | `Programming Language`, `CLI`, `API Consumption` | [**Open**]() |
+---
 
-Click [**here**](./python-Language-projects/) to see more for **Python** projects.
+## 📖 **Table of Contents**
 
---- 
+If you're interested in exploring **additional roadmaps** or want to see [**other projects**](https://roadmap.sh/projects) beyond what's listed in this table of contents, you can [**click here**](https://roadmap.sh/) to go directly to [Roadmap.sh](https://roadmap.sh/).
 
-## 📂 Frontend Projects list
+### Main Categories
 
-Below is a list of all **Frontend** projects available in this repository.
+- 📂 [**Backend Developer**]()
+- 📂 [**DevOps Roadmap**]()
+- 📂 [**Frontend Developer**](#-frontend-projects-list)
+- 📂 [**Python Language**]()
 
-| Project Name | Description| Technologies Used | Directory |
+> **Note:** This repository only reflects the roadmaps with projects that I've completed on [Roadmap.sh](https://roadmap.sh/). There are *many other topics* to explore.
+
+---
+
+## 📂 **Frontend Developer**
+
+Below is a list of all **Frontend Developer** projects available in this repository.
+
+| Project Name | Description| Focus Point | Directory |
 | :------------------------- | :------------------------------------ | :---------------------------------- | :---------------------- |
 | [**Single Page CV**](https://roadmap.sh/projects/single-page-cv) | Create a single-page HTML CV to showcase your *career history*. | `HTML`, `Semantic HTML`, `Layout`, `SEO` | [**Open**](./frontend-project/01-single-page-cv/) |
 | [**Basic HTML Website**](https://roadmap.sh/projects/basic-html-website) | Create simple HTML only website with *multiple pages*. | `HTML`, `CSS`, `Semantic HTML`, `Layout`, `SEO`| [**Open**](./frontend-project/02-basic-html-website/) |
 
-Click [**here**](./frontend-project/) to see more for **Frontend** projects.
+You can [**click here**](./frontend-project/) to see more **Frontend Developer** projects.
 
---- 
+---
 
-### 🙏 Thank You [**ROADMAP.SH**](https://roadmap.sh/)
+### 🙏 **Thank You [Roadmap.sh](https://roadmap.sh/)**
 
-I'm incredibly grateful to [**Roadmap.sh**](https://roadmap.sh/) for their *excellent learning pathways*, *clear learning structures*, and *valuable collection of projects*. These resources have significantly contributed to developing my skills and understanding across various career paths. The knowledge and experience gained from [**Roadmap.sh**](https://roadmap.sh/) form a crucial foundation for the projects I've created.
+I'm incredibly grateful to [**Roadmap.sh**](https://roadmap.sh/) for their **excellent learning roadmaps**, **clear learning structures**, and **valuable project collection**. These resources have *significantly contributed* to developing my **skills** and **understanding** across various **career paths**. The **knowledge and experience** gained from [Roadmap.sh](https://roadmap.sh/) form a **crucial foundation** for the projects I've created.
