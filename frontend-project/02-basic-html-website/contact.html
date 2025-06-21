@@ -1,36 +1,36 @@
-<!-- ประกาศประเภทของเอกสารและเวอร์ชั่น -->
+<!-- Document type declaration and version -->
 <!DOCTYPE html>
 
-<!--ส่วนของโค้ด HTML -->
+<!-- HTML code section -->
 <html lang="en">
 
 <head>
-    <!-- ส่วนของแท็กสำหรับการกำหนดข้อมูล Meta -->
+    <!-- Meta data configuration tags -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="Thitiphan Saragool - Junior Frontend Developer from Bangkok, Thailand. Skilled in HTML, CSS, JavaScript, and responsive web design.">
-    <meta name="keywords" content="Frontend Developer, HTML, CSS, JavaScript, Web Developer, Bangkok, Thailand">
+        content="Contact Thitiphan Saragool - Junior Frontend Developer from Bangkok, Thailand. Get in touch for web development projects.">
+    <meta name="keywords" content="Contact, Frontend Developer, HTML, CSS, JavaScript, Web Developer, Bangkok, Thailand">
     <meta name="author" content="Thitiphan Saragool">
     <meta name="robots" content="index, follow">
     <link href="./style.css" rel="stylesheet">
-    <title>Thitiphan Saragool - Junior Frontend Developer</title>
+    <title>Contact - Thitiphan Saragool</title>
 
-    <!-- ส่วนของแท็กสำหรับการแสดงผลของลิงค์ -->
-    <meta property="og:title" content="Thitiphan Saragool - Junior Frontend Developer">
+    <!-- Open Graph meta tags for social media link previews -->
+    <meta property="og:title" content="Contact - Thitiphan Saragool">
     <meta property="og:description"
-        content="Junior Frontend Developer from Bangkok, Thailand. Skilled in HTML, CSS, JavaScript, and responsive web design.">
+        content="Contact Thitiphan Saragool - Junior Frontend Developer from Bangkok, Thailand. Get in touch for web development projects.">
     <meta property="og:type" content="profile">
     <meta property="og:site_name" content="Thitiphan Saragool CV">
 
-    <!-- ส่วนของแท็กสำหรับการแสดงผลของลิงค์ของ Twitter -->
+    <!-- Twitter card meta tags for Twitter link previews -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Thitiphan Saragool - Junior Frontend Developer">
+    <meta name="twitter:title" content="Contact - Thitiphan Saragool">
     <meta name="twitter:description"
-        content="Junior Frontend Developer from Bangkok, Thailand. Skilled in HTML, CSS, JavaScript, and responsive web design.">
+        content="Contact Thitiphan Saragool - Junior Frontend Developer from Bangkok, Thailand. Get in touch for web development projects.">
 
-    <!-- ส่วนของ Favicon -->
+    <!-- Favicon and app icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="./favicon_io/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="./favicon_io/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="./favicon_io/favicon-16x16.png">
@@ -38,14 +38,12 @@
 </head>
 
 <body>
-    <!-- ส่วนของ Header -->
+    <!-- Header section with navigation -->
     <header>
-
         <nav>
             <div class="logo">
-                <img src="./favicon_io/android-chrome-192x192.png" />
-                <a href="#">Blanktphan</p>
-
+                <img src="./favicon_io/android-chrome-192x192.png" alt="Blanktphan logo" />
+                <a href="./index.html">Blanktphan</a>
             </div>
             <ul>
                 <li><a href="./index.html">Home</a></li>
@@ -54,17 +52,79 @@
                 <li><a href="./contact.html">Contact</a></li>
             </ul>
         </nav>
-
     </header>
 
-    <!-- ส่วนของ Main Content -->
-    <main class="other-pages">
-        <h1>Contact</h1>
+    <!-- Main content container -->
+    <main class="contact-page">
+        <!-- Page header -->
+        <div class="contact-header">
+            <h1>Contact Me</h1>
+            <p>Get in touch for collaboration opportunities or project inquiries.</p>
+        </div>
+
+        <!-- Contact form section -->
+        <section class="contact-form-section">
+            <h2>Send a Message</h2>
+            <form action="#" method="post" class="contact-form">
+                <div class="form-group">
+                    <label for="name">Full Name *</label>
+                    <input type="text" id="name" name="name" required placeholder="Enter your full name">
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email Address *</label>
+                    <input type="email" id="email" name="email" required placeholder="Enter your email address">
+                </div>
+
+                <div class="form-group">
+                    <label for="subject">Subject *</label>
+                    <input type="text" id="subject" name="subject" required placeholder="Brief description of your inquiry">
+                </div>
+
+                <div class="form-group">
+                    <label for="message">Message *</label>
+                    <textarea id="message" name="message" rows="6" required placeholder="Please provide details about your project or inquiry"></textarea>
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" class="submit-btn">Send Message</button>
+                </div>
+            </form>
+        </section>
+
+        <!-- Contact information section -->
+        <section class="contact-info">
+            <h2>Contact Information</h2>
+            <div class="info-grid">
+                <div class="info-item">
+                    <h3>Email</h3>
+                    <p><a href="mailto:blanktphan@gmail.com">blanktphan@gmail.com</a></p>
+                </div>
+                <div class="info-item">
+                    <h3>Phone</h3>
+                    <p><a href="tel:+66123456789">+66 (123) 456-789</a></p>
+                </div>
+                <div class="info-item">
+                    <h3>Location</h3>
+                    <p>Bangkok, Thailand</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Social media links -->
+        <section class="social-media">
+            <h2>Connect with Me</h2>
+            <div class="social-links">
+                <a href="https://github.com/blanktphan" target="_blank" rel="noopener noreferrer">GitHub</a>
+                <a href="https://linkedin.com/in/blanktphan" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                <a href="https://twitter.com/blanktphan" target="_blank" rel="noopener noreferrer">Twitter</a>
+            </div>
+        </section>
     </main>
 
-    <!-- ส่วนของ Footer -->
+    <!-- Footer section with copyright -->
     <footer>
-        <p>@ all rights reserved 2025</p>
+        <p>&copy; All rights reserved 2025</p>
     </footer>
 </body>
 

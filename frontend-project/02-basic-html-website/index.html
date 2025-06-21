@@ -1,11 +1,11 @@
-<!-- ประกาศประเภทของเอกสารและเวอร์ชั่น -->
+<!-- Document type declaration and version -->
 <!DOCTYPE html>
 
-<!--ส่วนของโค้ด HTML -->
+<!-- HTML code section -->
 <html lang="en">
 
 <head>
-    <!-- ส่วนของแท็กสำหรับการกำหนดข้อมูล Meta -->
+    <!-- Meta data configuration tags -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,20 +17,20 @@
     <link href="./style.css" rel="stylesheet">
     <title>Thitiphan Saragool - Junior Frontend Developer</title>
 
-    <!-- ส่วนของแท็กสำหรับการแสดงผลของลิงค์ -->
+    <!-- Open Graph meta tags for social media link previews -->
     <meta property="og:title" content="Thitiphan Saragool - Junior Frontend Developer">
     <meta property="og:description"
         content="Junior Frontend Developer from Bangkok, Thailand. Skilled in HTML, CSS, JavaScript, and responsive web design.">
     <meta property="og:type" content="profile">
     <meta property="og:site_name" content="Thitiphan Saragool CV">
 
-    <!-- ส่วนของแท็กสำหรับการแสดงผลของลิงค์ของ Twitter -->
+    <!-- Twitter card meta tags for Twitter link previews -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Thitiphan Saragool - Junior Frontend Developer">
     <meta name="twitter:description"
         content="Junior Frontend Developer from Bangkok, Thailand. Skilled in HTML, CSS, JavaScript, and responsive web design.">
 
-    <!-- ส่วนของ Favicon -->
+    <!-- Favicon and app icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="./favicon_io/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="./favicon_io/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="./favicon_io/favicon-16x16.png">
@@ -38,114 +38,122 @@
 </head>
 
 <body>
-    <!-- ส่วนของ Header -->
+    <!-- Header section with navigation -->
     <header>
-
-        <nav>
+        <nav aria-label="Main navigation">
             <div class="logo">
-                <img src="./favicon_io/android-chrome-192x192.png" />
-                <a href="#">Blanktphan</p>
-
+                <img src="./favicon_io/android-chrome-192x192.png" alt="Blanktphan logo" width="32" height="32" />
+                <a href="#" aria-label="Blanktphan home">Blanktphan</a>
             </div>
-            <ul>
-                <li><a href="./index.html">Home</a></li>
-                <li><a href="./project.html">Project</a></li>
-                <li><a href="./article.html">Article</a></li>
-                <li><a href="./contact.html">Contact</a></li>
+            <ul role="menubar">
+                <li role="none"><a href="./index.html" role="menuitem" aria-current="page">Home</a></li>
+                <li role="none"><a href="./project.html" role="menuitem">Project</a></li>
+                <li role="none"><a href="./article.html" role="menuitem">Article</a></li>
+                <li role="none"><a href="./contact.html" role="menuitem">Contact</a></li>
             </ul>
         </nav>
-
     </header>
 
-    <!-- ส่วนของ Main Content -->
+    <!-- Main content container -->
     <main>
-
-        <!-- ส่วนของ Main Header -->
-        <section class="main-header">
-            <article>
-                <h1>Frontend Developer</h1>
-                <p>html only with proper layoutm no styling</p>
-            </article>
+        <!-- Hero section with main heading -->
+        <section class="hero" aria-labelledby="hero-heading">
+            <h1 id="hero-heading">Frontend Developer</h1>
+            <p>HTML only with proper layout, no styling</p>
         </section>
         
-        <!-- ส่วนของ Main Content -->
-        <section class="main-content">
-            <article>
-                <h2>Projects</h2>
-                <section class="projects">
-                    <p>HTML Only portfolio</p>
-                    <hr>
-                    <p>Calculator</p>
-                    <hr>
-                    <p>Quiz App</p>
-                    <hr>
-                    <p>Countdown Timer</p>
-                    <hr>
-                    <p>Product Upcoming Page</p>
-                </section>
-            </article>
+        <!-- Portfolio and experience content -->
+        <div class="main-content">
+            <!-- Projects showcase section -->
+            <section aria-labelledby="projects-heading">
+                <h2 id="projects-heading">Projects</h2>
+                <ul class="projects">
+                    <li>HTML Only portfolio</li>
+                    <li>Calculator</li>
+                    <li>Quiz App</li>
+                    <li>Countdown Timer</li>
+                    <li>Product Upcoming Page</li>
+                </ul>
+            </section>
 
-            <article>
-                <h2>Work Experience</h2>
-                <p class="title">roadmap.sh</p>
-                <section class="work-experience">
-                    <p>Sloved all the frontend projects</p>
-                    <a href="#">Visit my Profile</a>
-                </section>
-                <hr>
-                <h2>OpenSource Work</h2>
-                <section class="opensource-work">
+            <!-- Work experience and open source contributions -->
+            <section aria-labelledby="experience-heading">
+                <h2 id="experience-heading">Work Experience</h2>
+                <article>
+                    <h3 class="company-name">roadmap.sh</h3>
+                    <p>Solved all the frontend projects</p>
+                    <a href="#" rel="noopener noreferrer" target="_blank">Visit my Profile</a>
+                </article>
+                <h2 id="opensource-heading">OpenSource Work</h2>
+                <article>
                     <p>Contributed to 50 OpenSource projects. Made my own projects with 200 GitHub Stars.</p>
-                    <a href="#">Visit my Profile</a>
-                </section>
-            </article>
-
-            <article>
-                <h2>Education</h2>
+                    <a href="#" rel="noopener noreferrer" target="_blank">Visit my Profile</a>
+                </article>
+            </section>
+            
+            <!-- Education background and courses -->
+            <section aria-labelledby="education-heading">
+                <h2 id="education-heading">Education</h2>
                 <p>Graduated with 3.76 out of 4 CGPA. Won Acme Hackathon. Organized 30 sessions.</p>
                 <h3>Courses I took:</h3>
                 <ul>
                     <li>Object Oriented Programming</li>
-                    <li>Data Structes and Algorithms</li>
-                    <li>Web Enginnering</li>
+                    <li>Data Structures and Algorithms</li>
+                    <li>Web Engineering</li>
                     <li>Artificial Intelligence</li>
                     <li>Human Computer Interaction</li>
                     <li>Computer Graphics</li>
                     <li>Database Management Systems</li>
                     <li>Distributed Database Systems</li>
-                    <li>Discreet Mathematics</li>
+                    <li>Discrete Mathematics</li>
                 </ul>
-            </article>
-        </section>
+            </section>
+        </div>
 
-        <!-- ส่วนของ Reviews -->
-        <section class="reviews-by-teachers">
-            <h2>Reviews from my Techers</h2>
+        <!-- Testimonials and reviews section -->
+        <section class="testimonials" aria-labelledby="testimonials-heading">
+            <h2 id="testimonials-heading">Reviews from my Teachers</h2>
 
-            <section class="review">
-                <article>
-                    <p class="description">John does was a brilliant student; always stood out with his assignments.</p>
-                    <p class="name">Jane Doe</p>
-                    <p class="role">Assitant Professor</p>
+            <div class="reviews-container">
+                <!-- Individual teacher review -->
+                <article class="review">
+                    <blockquote>
+                        <p>"John was a brilliant student; always stood out with his assignments."</p>
+                    </blockquote>
+                    <cite>
+                        <p class="name">Jane Doe</p>
+                        <p class="role">Assistant Professor</p>
+                    </cite>
                 </article>
 
-                <article>
-                    <p class="description">John does was a brilliant student; always stood out with his assignments.</p>
-                    <p class="name">Jane Doe</p>
-                    <p class="role">Assitant Professor</p>
+                <!-- Individual teacher review -->
+                <article class="review">
+                    <blockquote>
+                        <p>"John was a brilliant student; always stood out with his assignments."</p>
+                    </blockquote>
+                    <cite>
+                        <p class="name">Jane Doe</p>
+                        <p class="role">Assistant Professor</p>
+                    </cite>
                 </article>
 
-                <article>
-                    <p class="description">John does was a brilliant student; always stood out with his assignments.</p>
-                    <p class="name">Jane Doe</p>
-                    <p class="role">Assitant Professor</p>
+                <!-- Individual teacher review -->
+                <article class="review">
+                    <blockquote>
+                        <p>"John was a brilliant student; always stood out with his assignments."</p>
+                    </blockquote>
+                    <cite>
+                        <p class="name">Jane Doe</p>
+                        <p class="role">Assistant Professor</p>
+                    </cite>
                 </article>
+            </div>
         </section>
     </main>
 
-    <!-- ส่วนของ Footer -->
+    <!-- Footer section with copyright -->
     <footer>
-        <p>@ all rights reserved 2025</p>
+        <p>&copy; All rights reserved 2025</p>
     </footer>
 </body>
 
