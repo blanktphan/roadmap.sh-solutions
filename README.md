@@ -47,7 +47,7 @@ If you're interested in exploring **additional roadmaps** or want to see [**othe
 
 - 📂 [**Backend Developer**]()
 - 📂 [**DevOps Roadmap**]()
-- 📂 [**Frontend Developer**](#-frontend-projects-list)
+- 📂 [**Frontend Developer**](./frontend-project/)
 - 📂 [**Python Language**]()
 
 > **Note:** This repository only reflects the roadmaps with projects that I've completed on [Roadmap.sh](https://roadmap.sh/). There are *many other topics* to explore.
@@ -60,8 +60,8 @@ Below is a list of all **Frontend Developer** projects available in this reposit
 
 | Project Name | Description| Focus Point | Directory |
 | :------------------------- | :------------------------------------ | :---------------------------------- | :---------------------- |
-| [**Single Page CV**](https://roadmap.sh/projects/single-page-cv) | Create a single-page HTML CV to showcase your *career history*. | `HTML`, `Semantic HTML`, `Layout`, `SEO` | [**Open**](./frontend-project/01-single-page-cv/) |
-| [**Basic HTML Website**](https://roadmap.sh/projects/basic-html-website) | Create simple HTML only website with *multiple pages*. | `HTML`, `CSS`, `Semantic HTML`, `Layout`, `SEO`| [**Open**](./frontend-project/02-basic-html-website/) |
+| [**Single Page CV**](https://roadmap.sh/projects/single-page-cv) | Build a **professional single-page CV** using semantic HTML structure, focusing on *SEO optimization* and *accessibility standards* without any styling. | `Semantic HTML5`, `SEO Meta Tags`, `Open Graph`, `Accessibility`, `Document Structure` | [**Open**](./01-single-page-cv/) |
+| [**Basic HTML Website**](https://roadmap.sh/projects/basic-html-website) | Develop a **multi-page website** with consistent navigation, contact forms, and *responsive foundation* ready for future CSS implementation. | `Multi-page Architecture`, `Navigation Systems`, `Form Handling`, `CSS Layout Prep`, `File Organization` | [**Open**](./02-basic-html-website/) |
 
 You can [**click here**](./frontend-project/) to see more **Frontend Developer** projects.
 
