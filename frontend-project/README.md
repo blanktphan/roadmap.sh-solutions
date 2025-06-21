@@ -1,4 +1,4 @@
-# 📂 Frontend Projects Collection
+# 📂 Frontend Developer
 
 Below is a comprehensive list of all **Frontend Development** projects available in this repository, designed to build **progressive web development skills** from foundational HTML to advanced interactive applications.
 
