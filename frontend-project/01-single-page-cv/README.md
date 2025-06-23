@@ -1,6 +1,6 @@
 # Project: Single-Page CV
 
-## 🎯 The Challenge form [Roadmap](https://roadmap.sh/)
+## 🎯 The Challenge from [Roadmap](https://roadmap.sh/)
 
 Create a single-page HTML CV to showcase your career history.
 

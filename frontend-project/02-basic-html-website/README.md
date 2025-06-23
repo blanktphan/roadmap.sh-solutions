@@ -1,6 +1,6 @@
 # Project: Basic HTML Website
 
-## 🎯 The Challenge form [Roadmap](https://roadmap.sh/)
+## 🎯 The Challenge from [Roadmap](https://roadmap.sh/)
 
 Create simple HTML only website with multiple pages.
 
