@@ -1,4 +1,4 @@
-# Project: Single-Page CV
+# 👨‍💻 Project: Single-Page CV
 
 ## 🎯 The Challenge from [Roadmap](https://roadmap.sh/)
 
