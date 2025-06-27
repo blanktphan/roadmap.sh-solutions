@@ -216,6 +216,6 @@ This project demonstrates:
   
 ---
 
-### 🙏 **Thank You [Roadmap.sh](https://roadmap.sh/)**
+### 🙏 **Thank You, [Roadmap.sh](https://roadmap.sh/)**
 
 I'm incredibly grateful to [**Roadmap.sh**](https://roadmap.sh/) for their **excellent learning roadmaps**, **clear learning structures**, and **valuable project collection**. These resources have *significantly contributed* to developing my **skills** and **understanding** across various **career paths**. The **knowledge and experience** gained from [Roadmap.sh](https://roadmap.sh/) form a **crucial foundation** for the projects I've created.
