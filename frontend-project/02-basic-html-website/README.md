@@ -1,4 +1,4 @@
-# 👨‍💻 Project: Basic HTML Website
+# 📋 Project: Basic HTML Website
 
 ## 🎯 The Challenge from [Roadmap](https://roadmap.sh/)
 
@@ -39,7 +39,7 @@ After completing this project, you will have a good understanding of how to stru
 
 ---
 
-## 💡 **My solution**
+## 💡 My solution
 
 ![My solution](./image/image1.png)
 ![My solution](./image/image2.png)
@@ -53,7 +53,7 @@ You can vote on the solution to this problem at the [link](https://roadmap.sh/pr
 ## 🔍 Code Explanation (Generate by GitHub Copilot)
 
 ### 📋 Project Overview
-This is a **Basic HTML Website project** from [Roadmap.sh](https://roadmap.sh/) that demonstrates creating a multi-page website using semantic HTML structure. The project focuses on proper HTML organization, SEO optimization, navigation systems, and form implementation without any CSS styling.
+This is a Basic HTML Website project from [Roadmap.sh](https://roadmap.sh/) that demonstrates creating a multi-page website using semantic HTML structure. The project focuses on proper HTML organization, SEO optimization, navigation systems, and form implementation without any CSS styling.
 
 ### 🎯 Project Requirements
 - ✅ Semantically correct HTML structure
@@ -98,7 +98,7 @@ This is a **Basic HTML Website project** from [Roadmap.sh](https://roadmap.sh/) 
     </nav>
 </header>
 ```
-**Purpose:** Consistent navigation across all pages with accessibility features and semantic structure.
+Purpose: Consistent navigation across all pages with accessibility features and semantic structure.
 
 #### SEO Meta Tags Implementation
 ```html
@@ -122,11 +122,11 @@ This is a **Basic HTML Website project** from [Roadmap.sh](https://roadmap.sh/) 
 <meta name="twitter:title" content="Page Title">
 <meta name="twitter:description" content="Page description for Twitter">
 ```
-**Purpose:** Comprehensive SEO optimization and social media integration for better discoverability.
+Purpose: Comprehensive SEO optimization and social media integration for better discoverability.
 
 ### 🏠 Page-Specific Implementation
 
-#### 1. **Homepage (index.html)** 🏡
+#### 1. Homepage (index.html) 🏡
 ```html
 <main>
     <!-- Hero section -->
@@ -156,14 +156,14 @@ This is a **Basic HTML Website project** from [Roadmap.sh](https://roadmap.sh/) 
 </main>
 ```
 
-**Key Features:**
-- **Hero section** with main professional heading
-- **Projects showcase** using semantic lists
-- **Work experience** organized in articles
-- **Testimonials** with proper quote markup
-- **Responsive grid layout** ready for CSS styling
+Key Features:
+- Hero section with main professional heading
+- Projects showcase using semantic lists
+- Work experience organized in articles
+- Testimonials with proper quote markup
+- Responsive grid layout ready for CSS styling
 
-#### 2. **Contact Page (contact.html)** 📞
+#### 2. Contact Page (contact.html) 📞
 ```html
 <main class="contact-page">
     <!-- Contact form section -->
@@ -205,12 +205,12 @@ This is a **Basic HTML Website project** from [Roadmap.sh](https://roadmap.sh/) 
 </main>
 ```
 
-**Form Features:**
-- **Proper form validation** with required fields
-- **Semantic form structure** with labels and fieldsets
-- **Accessibility compliant** with proper ARIA attributes
-- **Multiple input types** (text, email, textarea)
-- **Contact information grid** for additional contact methods
+Form Features:
+- Proper form validation with required fields
+- Semantic form structure with labels and fieldsets
+- Accessibility compliant with proper ARIA attributes
+- Multiple input types (text, email, textarea)
+- Contact information grid for additional contact methods
 
 ### 🎨 CSS Structure (style.css)
 
@@ -261,51 +261,51 @@ main .main-content {
 ### 🔧 Technical Implementation Details
 
 #### Accessibility Features
-- **ARIA labels** and `aria-labelledby` for screen readers
-- **Semantic HTML5 elements** (`<nav>`, `<main>`, `<section>`, `<article>`)
-- **Proper heading hierarchy** (h1 → h2 → h3)
-- **Form accessibility** with labels and proper input types
-- **Keyboard navigation support** with proper focus management
+- ARIA labels and `aria-labelledby` for screen readers
+- Semantic HTML5 elements (`<nav>`, `<main>`, `<section>`, `<article>`)
+- Proper heading hierarchy (h1 → h2 → h3)
+- Form accessibility with labels and proper input types
+- Keyboard navigation support with proper focus management
 
 #### Security Best Practices
 ```html
 <a href="https://github.com/blanktphan" rel="noopener noreferrer" target="_blank">
 ```
-- **`rel="noopener noreferrer"`** prevents security vulnerabilities
-- **Form validation** with required attributes
-- **Proper input types** for email validation
+- `rel="noopener noreferrer"` prevents security vulnerabilities
+- Form validation with required attributes
+- Proper input types for email validation
 
 #### Performance Optimization
-- **Semantic HTML structure** for faster parsing
-- **Optimized favicon sizes** for different devices
-- **Minimal CSS** focused on layout structure
-- **Progressive enhancement** ready architecture
+- Semantic HTML structure for faster parsing
+- Optimized favicon sizes for different devices
+- Minimal CSS focused on layout structure
+- Progressive enhancement ready architecture
 
 ### 📊 Project Benefits
 
-1. **Multi-page Architecture** - Professional website structure
-2. **SEO Optimization** - Search engine friendly markup
-3. **Accessibility Compliance** - WCAG guidelines implementation
-4. **Mobile-Ready Foundation** - Responsive design preparation
-5. **Maintainable Code** - Clean, semantic HTML structure
-6. **Form Functionality** - Complete contact system
-7. **Social Media Integration** - Open Graph and Twitter cards
-8. **Performance Focused** - Lightweight, efficient code
+1. Multi-page Architecture - Professional website structure
+2. SEO Optimization - Search engine friendly markup
+3. Accessibility Compliance - WCAG guidelines implementation
+4. Mobile-Ready Foundation - Responsive design preparation
+5. Maintainable Code - Clean, semantic HTML structure
+6. Form Functionality - Complete contact system
+7. Social Media Integration - Open Graph and Twitter cards
+8. Performance Focused - Lightweight, efficient code
 
 ### 🎓 Learning Outcomes
 
 This project demonstrates:
-- **Multi-page website architecture** and navigation systems
-- **Semantic HTML fundamentals** and proper element usage
-- **Form creation and validation** with accessibility features
-- **SEO optimization techniques** for web visibility
-- **Project organization** and file structure management
-- **CSS layout systems** preparation for future styling
-- **Web accessibility principles** implementation
-- **Professional development practices** and code organization
+- Multi-page website architecture and navigation systems
+- Semantic HTML fundamentals and proper element usage
+- Form creation and validation with accessibility features
+- SEO optimization techniques for web visibility
+- Project organization and file structure management
+- CSS layout systems preparation for future styling
+- Web accessibility principles implementation
+- Professional development practices and code organization
 
 ---
 
-### 🙏 **Thank You, [Roadmap.sh](https://roadmap.sh/)**
+### 🙏 Thank You, [Roadmap.sh](https://roadmap.sh/)
 
-I'm incredibly grateful to [**Roadmap.sh**](https://roadmap.sh/) for their **excellent learning roadmaps**, **clear learning structures**, and **valuable project collection**. These resources have *significantly contributed* to developing my **skills** and **understanding** across various **career paths**. The **knowledge and experience** gained from [Roadmap.sh](https://roadmap.sh/) form a **crucial foundation** for the projects I've created.
+I'm incredibly grateful to [Roadmap.sh](https://roadmap.sh/) for their excellent learning roadmaps, clear learning structures, and valuable project collection. These resources have significantly contributed to developing my skills and understanding across various career paths. The knowledge and experience gained from [Roadmap.sh](https://roadmap.sh/) form a crucial foundation for the projects I've created.

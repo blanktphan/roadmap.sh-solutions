@@ -1,4 +1,4 @@
-# 👨‍💻 Project: Single-Page CV
+# 📋 Project: Single-Page CV
 
 ## 🎯 The Challenge from [Roadmap](https://roadmap.sh/)
 
@@ -32,7 +32,7 @@ By completing this project, you'll gain a solid understanding of how to create a
 
 ---
 
-## 💡 **My solution**
+## 💡 My solution
 
 ![My solution](./image/image-1.png)
 
@@ -43,7 +43,7 @@ You can vote on the solution to this problem at the [link](https://roadmap.sh/pr
 ## 🔍 Code Explanation (Generate by GitHub Copilot)
 
 ### 📋 Project Overview
-This is a **Single-Page CV project** that demonstrates creating a structured HTML curriculum vitae without any CSS styling. The project focuses on semantic HTML structure, SEO optimization, and social media integration.
+This is a Single-Page CV project that demonstrates creating a structured HTML curriculum vitae without any CSS styling. The project focuses on semantic HTML structure, SEO optimization, and social media integration.
 
 ### 🏗️ Code Structure Analysis
 
@@ -54,7 +54,7 @@ This is a **Single-Page CV project** that demonstrates creating a structured HTM
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
-**Purpose:** Essential meta tags for browser compatibility, character encoding, and responsive design foundation.
+Purpose: Essential meta tags for browser compatibility, character encoding, and responsive design foundation.
 
 #### 🔍 SEO Optimization
 ```html
@@ -63,7 +63,7 @@ This is a **Single-Page CV project** that demonstrates creating a structured HTM
 <meta name="author" content="Thitiphan Saragool">
 <meta name="robots" content="index, follow">
 ```
-**Purpose:** Improves search engine visibility and ranking through descriptive metadata and proper indexing instructions.
+Purpose: Improves search engine visibility and ranking through descriptive metadata and proper indexing instructions.
 
 #### 📱 Social Media Integration
 ```html
@@ -78,7 +78,7 @@ This is a **Single-Page CV project** that demonstrates creating a structured HTM
 <meta name="twitter:title" content="Thitiphan Saragool - Junior Frontend Developer">
 <meta name="twitter:description" content="Junior Frontend Developer from Bangkok, Thailand...">
 ```
-**Purpose:** Enables rich previews when shared on social media platforms like Facebook, LinkedIn, and Twitter.
+Purpose: Enables rich previews when shared on social media platforms like Facebook, LinkedIn, and Twitter.
 
 #### 🌐 Semantic HTML Structure
 ```html
@@ -116,11 +116,11 @@ This is a **Single-Page CV project** that demonstrates creating a structured HTM
     </section>
 </main>
 ```
-**Purpose:** Uses proper semantic elements for better accessibility, SEO, and code maintainability.
+Purpose: Uses proper semantic elements for better accessibility, SEO, and code maintainability.
 
 ### 🎨 Key Features Implementation
 
-#### 1. **Header Section** 👤
+#### 1. Header Section 👤
 ```html
 <header>
     <h1>Thitiphan Saragool</h1>
@@ -134,7 +134,7 @@ This is a **Single-Page CV project** that demonstrates creating a structured HTM
 - Proper heading hierarchy (h1 for name, h2 for title)
 - Contact information in paragraph elements
 
-#### 2. **Skills Section** 💪
+#### 2. Skills Section 💪
 ```html
 <section>
     <h2>Skills</h2>
@@ -145,7 +145,7 @@ This is a **Single-Page CV project** that demonstrates creating a structured HTM
 - Skills listed in a readable format
 - Ready for future CSS styling enhancements
 
-#### 3. **Education & Experience Sections** 🎓💼
+#### 3. Education & Experience Sections 🎓💼
 ```html
 <section>
     <h2>Education</h2>
@@ -164,7 +164,7 @@ This is a **Single-Page CV project** that demonstrates creating a structured HTM
 - Consistent structure for easy styling
 - Lists for achievements and coursework
 
-#### 4. **Contact Section** 🌍
+#### 4. Contact Section 🌍
 ```html
 <section>
     <h2>Across the Internet</h2>
@@ -187,35 +187,35 @@ This is a **Single-Page CV project** that demonstrates creating a structured HTM
 <link rel="icon" type="image/png" sizes="16x16" href="./favicon_io/favicon-16x16.png">
 <link rel="manifest" href="./favicon_io/site.webmanifest">
 ```
-**Purpose:** Provides brand identity across different devices and platforms with multiple icon sizes.
+Purpose: Provides brand identity across different devices and platforms with multiple icon sizes.
 
 #### Security Best Practices
 ```html
 <a href="https://github.com/blanktphan" rel="noopener noreferrer" target="_blank">
 ```
-**Purpose:** `rel="noopener noreferrer"` prevents security vulnerabilities and performance issues when opening external links.
+Purpose: `rel="noopener noreferrer"` prevents security vulnerabilities and performance issues when opening external links.
 
 ### 📊 Project Benefits
 
-1. **SEO-Ready Structure** - Optimized for search engine crawling and indexing
-2. **Social Media Friendly** - Rich previews on sharing platforms
-3. **Accessibility Compliant** - Screen reader compatible with semantic HTML
-4. **Mobile Responsive Foundation** - Viewport meta tag for device adaptation
-5. **Future-Proof Architecture** - Clean structure ready for CSS styling
-6. **Performance Optimized** - Minimal HTML with proper resource loading
+1. SEO-Ready Structure - Optimized for search engine crawling and indexing
+2. Social Media Friendly - Rich previews on sharing platforms
+3. Accessibility Compliant - Screen reader compatible with semantic HTML
+4. Mobile Responsive Foundation - Viewport meta tag for device adaptation
+5. Future-Proof Architecture - Clean structure ready for CSS styling
+6. Performance Optimized - Minimal HTML with proper resource loading
 
 ### 🎓 Learning Outcomes
 
 This project demonstrates:
-- **Semantic HTML fundamentals** and proper element usage
-- **SEO best practices** for web visibility
-- **Social media optimization** techniques
-- **Web accessibility principles** implementation
-- **Professional web development structure** and organization
-- **Security considerations** for external links
+- Semantic HTML fundamentals and proper element usage
+- SEO best practices for web visibility
+- Social media optimization techniques
+- Web accessibility principles implementation
+- Professional web development structure and organization
+- Security considerations for external links
   
 ---
 
-### 🙏 **Thank You, [Roadmap.sh](https://roadmap.sh/)**
+### 🙏 Thank You, [Roadmap.sh](https://roadmap.sh/)
 
-I'm incredibly grateful to [**Roadmap.sh**](https://roadmap.sh/) for their **excellent learning roadmaps**, **clear learning structures**, and **valuable project collection**. These resources have *significantly contributed* to developing my **skills** and **understanding** across various **career paths**. The **knowledge and experience** gained from [Roadmap.sh](https://roadmap.sh/) form a **crucial foundation** for the projects I've created.
+I'm incredibly grateful to [Roadmap.sh](https://roadmap.sh/) for their excellent learning roadmaps, clear learning structures, and valuable project collection. These resources have significantly contributed to developing my skills and understanding across various career paths. The knowledge and experience gained from [Roadmap.sh](https://roadmap.sh/) form a crucial foundation for the projects I've created.
