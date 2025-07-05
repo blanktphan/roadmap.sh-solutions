@@ -2,6 +2,15 @@
 
 [![Roadmap.sh Logo](./image/roadmapsh-logo.png)](https://roadmap.sh/)
 
+<section align="center">
+    <span>
+        <img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML5-transparent?style=for-the-badge&logo=html5&logoColor=fff&color=e34f26">
+    </span>
+    <span>
+        <img alt="CSS Badge" src="https://img.shields.io/badge/CSS-transparent?style=for-the-badge&logo=css&logoColor=fff&color=%232965f1">
+    </span>
+</section>
+
 ## 📋 Introduction
 
 This repository is my personal space for collecting and storing various projects I've practiced and built following the guidelines from [Roadmap.sh](https://roadmap.sh/). Its main purpose is to track my development, showcase my learned skills, and share my unique problem-solving approaches. Please note, this repository does NOT cover all content or projects from [Roadmap.sh](https://roadmap.sh/).
