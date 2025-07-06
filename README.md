@@ -72,7 +72,7 @@ Below is a comprehensive list of all Frontend Development projects available in 
 | [Single Page CV](https://roadmap.sh/projects/single-page-cv) | Build a professional single-page CV using semantic HTML structure, focusing on SEO optimization and accessibility standards without any styling. | `Semantic HTML5`, `SEO Meta Tags`, `Open Graph`, `Accessibility`, `Document Structure` | [Open](./frontend-project/01-single-page-cv/) |
 | [Basic HTML Website](https://roadmap.sh/projects/basic-html-website) | Develop a multi-page website with consistent navigation, contact forms, and responsive foundation ready for future CSS implementation. | `Multi-page Architecture`, `Navigation Systems`, `Form Handling`, `CSS Layout Prep`, `File Organization` | [Open](./frontend-project/02-basic-html-website/) |
 
-You can [click here](./frontend-project/) to see more Frontend Developer projects.
+You can click [here](./frontend-project/) to see more Frontend Developer projects.
 
 ---
 
